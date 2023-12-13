@@ -22,7 +22,7 @@ import java.util.Set;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.*;
 
-public class EventServicesImplTest {
+ class EventServicesImplTest {
 
     @Mock
     private EventRepository eventRepository;
@@ -42,7 +42,7 @@ public class EventServicesImplTest {
     }
 
     @Test
-    public void testAddParticipant() {
+     void testAddParticipant() {
         // Arrange
         Participant participant = new Participant(/* initialize participant */);
 
@@ -60,7 +60,7 @@ public class EventServicesImplTest {
     }
 
     @Test
-    public void testAddAffectEvenParticipant() {
+    void testAddAffectEvenParticipant() {
         // Arrange
         Event event = new Event(/* initialize event */);
         int participantId = 1;
