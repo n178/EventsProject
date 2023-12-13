@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c35f088b-6523-4f4b-a24d-d2fe72431c32" name="Changes" comment="" />
+    <list default="true" id="c35f088b-6523-4f4b-a24d-d2fe72431c32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +54,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="EventsProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="eventsProject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.esprit.eventsproject.EventsProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,7 +82,7 @@
       <workItem from="1702451801851" duration="460000" />
       <workItem from="1702452274797" duration="166000" />
       <workItem from="1702452767313" duration="18000" />
-      <workItem from="1702452881381" duration="2902000" />
+      <workItem from="1702452881381" duration="3547000" />
     </task>
     <servers />
   </component>
