@@ -19,7 +19,7 @@ services:
     image: nour534/validationn:latest
     container_name: svalidation
     ports:
-      - "8085:8085"
+      - "8089:8089"
     depends_on:
       - mysql
     networks:
