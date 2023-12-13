@@ -41,6 +41,7 @@
     "Maven.eventsProject [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.EventsProjectApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/allence/EventsProject",
@@ -88,7 +89,7 @@
       <workItem from="1702451801851" duration="460000" />
       <workItem from="1702452274797" duration="166000" />
       <workItem from="1702452767313" duration="18000" />
-      <workItem from="1702452881381" duration="9253000" />
+      <workItem from="1702452881381" duration="9947000" />
     </task>
     <servers />
   </component>
